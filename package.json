@@ -8,15 +8,39 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^31.1.0",
+    "@ckeditor/ckeditor5-react": "^3.0.3",
+    "@react-spring/three": "^9.3.1",
+    "@react-three/drei": "^7.25.3",
+    "@react-three/fiber": "^7.0.21",
+    "@types/ckeditor__ckeditor5-core": "^28.0.10",
+    "aws-amplify": "^4.3.10",
+    "aws-sdk": "^2.1042.0",
+    "ckeditor5-custom-build": "/Users/Tom/Documents/my-projects/my-portfolio/ckeditor5-31.1.0-f80j5i218rkj",
     "next": "12.0.4",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-intersection-observer": "^8.32.5",
+    "react-spring": "^9.3.2",
+    "swr": "^1.1.0",
+    "three": "^0.135.0"
   },
   "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
+    "@types/ckeditor__ckeditor5-build-classic": "^29.0.1",
     "@types/node": "16.11.11",
-    "@types/react": "17.0.37",
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "@types/three": "^0.134.0",
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "autoprefixer": "^10.4.0",
     "eslint": "7",
     "eslint-config-next": "12.0.4",
+    "next-transpile-modules": "^6.3.0",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3",
     "typescript": "4.5.2"
   }
 }
